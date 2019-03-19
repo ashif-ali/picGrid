@@ -1,0 +1,13 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+h1{
+	margin:1.66%;
+	border-bottom: 2px solid #f1f1f1;
+	font-family: Cabin;
+	width: 30%;
+	text-transform: uppercase;
+	padding-bottom:20px;
+}
